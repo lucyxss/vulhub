@@ -1,3 +1,3 @@
-FROM httpd:2.2
+FROM httpd:latest
 
 MAINTAINER phithon <root@leavesongs.com>

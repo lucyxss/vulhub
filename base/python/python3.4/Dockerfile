@@ -1,3 +1,3 @@
-FROM python:3.4
+FROM python:buster
 
 MAINTAINER phithon <root@leavesongs.com>
